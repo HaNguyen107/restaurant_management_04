@@ -1,13 +1,12 @@
 # restaurant_management_04
 
 # Manage restaurant
-## <User>
+## User
 - Can see menu, search and order dishes in categories
 - Can book table and decide to book dishes at the same time or not.
 - Can review restaurant
 - Can comment dishes, restaurant
-
-## <Admin>
+## Admin
 - Manage menu: add, show, edit, delete dishes, menu by date, month
 - manage categories: add, show, edit, delete categories.
 - Manage staff: add, show, edit, delete information.
@@ -17,7 +16,7 @@
 - Manage revenue and expenditure.
 - Statistic revenue and expenditure.
 - Statistic dishes have highest order by day, month.
-## <System>
+## System
 - Mail to customer when book table, give suggest newest dishes
 - Mail to all customer when restaurant have new dish.
 
