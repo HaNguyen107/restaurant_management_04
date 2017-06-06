@@ -42,6 +42,6 @@ Các bạn trong team review chéo cho nhau + comment OK vào pull sau khi revie
 # [Framgia Coding Standard PHP]
 https://github.com/framgia/coding-standards/tree/master/vn/php
 
-# Sử dụng PHP-Code-Sniffer check code convention with Sublime Text 
+# PHP-Code-Sniffer check code convention with Sublime Text 
 1. https://gist.github.com/tuanpht/98da682333dd1bc8e4516417653158aa 
 2. https://github.com/wataridori/framgia-php-codesniffer
