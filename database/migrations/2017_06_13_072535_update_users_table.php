@@ -16,8 +16,8 @@ class UpdateUsersTable extends Migration
         Schema::table('users', function (Blueprint $table) {
             $table->text('address')->after('password')->nullable();
             $table->string('phone')->after('address')->nullable();
-            $table->boolean('gender')->after('phone')->nullable();       
-            $table->integer('role')->after('gender');
+            $table->boolean('gender')->after('phone')->nullable();
+            $table->integer('role')->after('gender')->default('0');
         });
     }
 
